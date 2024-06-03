@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*/.streamlit/*
+.env
+*/streamlit/chapter8db/*
