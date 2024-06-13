@@ -3,3 +3,4 @@
 */.streamlit/*
 .env
 */streamlit/chapter8db/*
+*/streamlit/.streamlit/secrets.toml

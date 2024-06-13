@@ -16,8 +16,8 @@ LANGCHAIN_API_KEY = get_secret("OPENWEATHERMAP_API_KEY")
 
 
 
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = ""
 os.environ['LANGCHAIN_TRACING_V2'] = "true"
 os.environ['LANGCHAIN_ENDPOINT'] = "https://api.smith.langchain.com"
-os.environ['LANGCHAIN_API_KEY'] = 'ls__950b2ad6e3e34afea6c9ba3461c5369a'
+os.environ['LANGCHAIN_API_KEY'] = ''
 os.environ['LANGCHAIN_PROJECT'] = "book-chapter-8" 
